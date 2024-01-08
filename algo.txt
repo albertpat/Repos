@@ -1,0 +1,5 @@
+Decide what pizza place to order from
+Decide what pizza you want
+Make the order
+Pay for the order
+Pick up the pizza or wait for it to be delivered 
